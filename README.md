@@ -1,4 +1,4 @@
-## Olá! Eu Lita 👋
+## Hey guys, me Lita 👋
 
 <!--Stats-->
 <div align="center">
