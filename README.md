@@ -1,4 +1,4 @@
-## Hey guys, me Lita 👋
+## Hey guys, I'm a computer science student. 👋
 
 <!--Stats-->
 <div align="center">
