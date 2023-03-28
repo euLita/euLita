@@ -1,7 +1,8 @@
-## Hey guys, I'm a computer science student. 👋
+## **Hey guys, I'm a computer science student. 👋**
 
+<br>
  
- <!--most used programming languages-->
+## Some languages and tools
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lita-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
