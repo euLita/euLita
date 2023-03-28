@@ -26,6 +26,6 @@
 <br/>
 <br/>
 
-<!--my animation snake-->
+## Snake eating my contribution graph
 
 ![snake gif](https://github.com/euLita/euLita/blob/output/github-contribution-grid-snake.gif)
