@@ -23,4 +23,9 @@
   <a href="https://twitter.com/ssl1ta" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/euLita/euLita/blob/output/github-contribution-grid-snake.svg)
+<br/>
+<br/>
+
+<!--my animation snake-->
+
+![snake gif](https://github.com/euLita/euLita/blob/output/github-contribution-grid-snake.gif)
