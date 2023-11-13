@@ -1,19 +1,19 @@
-## **Hey guys, I'm a computer science student. 👋**
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/octocats/octocat-20.png)
+
+## About me
+
+Hey guys, I'm Lita, and student computer science .
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| CSS       |
+|     4| HTML      |
 
 <br>
  
-## Some languages and tools
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lita-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lita-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lita-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />    
-  <img align="center" alt="Lita-NodeJs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Lita-IntelliJ" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />          
-</div>
-
- ##
-
  <!--social networks-->
  
 <div> 
