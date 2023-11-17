@@ -5,7 +5,7 @@
 Hey guys, I'm Lita, and student computer science .
 
 ## tools I use
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&animation=spin&svgfill=15d8fe">  
 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 
