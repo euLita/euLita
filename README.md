@@ -1,7 +1,6 @@
 
 <!--!![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/octocats/octocat-20.png)-->
 
-## me
 Hey guys, I'm Lita, and student computer science .
 
 ## tools I use
