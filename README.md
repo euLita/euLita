@@ -23,7 +23,7 @@ tools I use
 social networks
 -
 
-[![Linkedin Badge](https://img.shields.io/badge/-tal1tasantos-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tal1tasantos/)](https://www.linkedin.com/in/tal1tasantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-tal1tasantos-grey?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/tal1tasantos/](https://www.linkedin.com/in/tal1tasantos/))](https://www.linkedin.com/in/tal1tasantos/)
 
 
 <!--Snake eating my contribution graph
