@@ -24,7 +24,7 @@ social networks
 -
 
 [![Linkedin Badge](https://img.shields.io/badge/-tal1tasantos-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tal1tasantos/)](https://www.linkedin.com/in/tal1tasantos/)
-[![Instagram Badge](https://img.shields.io/badge/-i_litaa-grey?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/i_litaa/)](https://instagram.com/i_litaa)
+
 
 <!--Snake eating my contribution graph
  ![snake gif](https://github.com/euLita/euLita/blob/output/github-contribution-grid-snake.gif)-->
