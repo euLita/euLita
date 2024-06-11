@@ -20,6 +20,8 @@ _`tools I use`_
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=IntelliJIDEA&&fill=cdffc0-text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Django&&fill=cdffc0-text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=MySql&&fill=cdffc0-text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Pandas&&fill=cdffc0-text=false&animation=spin)
+
 
 
  <!--social networks-->
