@@ -3,8 +3,7 @@
 
 `Hey folks, I'm Lita, and student computer science.`
 -
-_`tools I use`_
-
+_`tools I use or have used...`_
 
 <br/>![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&&fill=cdffc0-text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5&&fill=cdffc0-text=false&animation=spin)
